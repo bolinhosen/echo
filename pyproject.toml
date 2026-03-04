@@ -1,0 +1,24 @@
+[project]
+name = "echo"
+version = "0.1.0"
+description = "Fine-tune Qwen3.5-9B on Twitter archive data"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "google-genai",
+    "unsloth",
+    "transformers",
+    "httpx",
+    "python-telegram-bot",
+    "unsloth-zoo",
+    "trl",
+    "datasets",
+    "Pillow",
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = []
